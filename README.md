@@ -18,6 +18,6 @@ A Front-End Developer.
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ### Latest Blog Posts
-- [vscode-subtitle-reader 插件开发](https://kuro-p.github.io/2024/11/16/vscode-subtitle-reader插件开发/)
-- [libpag 初使用 & render-pag 的诞生](https://kuro-p.github.io/2023/12/28/libpag初使用-render-pag的诞生/)
-- [dweb-cli 开发小结](https://kuro-p.github.io/2023/12/20/dweb-cli开发小结/)
+- [Development of VSCode Subtitle Reader Plugin](https://kuro-p.github.io/2024/11/16/vscode-subtitle-reader插件开发/)
+- [Learning of libpag](https://kuro-p.github.io/2023/12/28/libpag初使用-render-pag的诞生/)
+- [About dweb-cli](https://kuro-p.github.io/2023/12/20/dweb-cli开发小结/)
